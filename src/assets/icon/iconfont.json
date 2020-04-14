@@ -1,0 +1,121 @@
+{
+  "id": "1743786",
+  "name": "vue_admin_demo",
+  "font_family": "iconfont",
+  "css_prefix_text": "admin-icon",
+  "description": "vue后台管理系统de'mo",
+  "glyphs": [
+    {
+      "icon_id": "11488009",
+      "name": "conditions",
+      "font_class": "conditions",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
+      "icon_id": "11488048",
+      "name": "hardware",
+      "font_class": "hardware",
+      "unicode": "e752",
+      "unicode_decimal": 59218
+    },
+    {
+      "icon_id": "11488147",
+      "name": "task-management",
+      "font_class": "task-management",
+      "unicode": "e768",
+      "unicode_decimal": 59240
+    },
+    {
+      "icon_id": "11488168",
+      "name": "set",
+      "font_class": "set",
+      "unicode": "e76c",
+      "unicode_decimal": 59244
+    },
+    {
+      "icon_id": "11488206",
+      "name": "user center",
+      "font_class": "usercenter",
+      "unicode": "e773",
+      "unicode_decimal": 59251
+    },
+    {
+      "icon_id": "11488222",
+      "name": "add-account",
+      "font_class": "add-account",
+      "unicode": "e776",
+      "unicode_decimal": 59254
+    },
+    {
+      "icon_id": "11488236",
+      "name": "certified-supplier-fill",
+      "font_class": "certified-supplier-fill",
+      "unicode": "e77b",
+      "unicode_decimal": 59259
+    },
+    {
+      "icon_id": "11488347",
+      "name": "template-fill",
+      "font_class": "template-fill",
+      "unicode": "e78e",
+      "unicode_decimal": 59278
+    },
+    {
+      "icon_id": "11504165",
+      "name": "doc-fill",
+      "font_class": "docjpge-fill",
+      "unicode": "e7a4",
+      "unicode_decimal": 59300
+    },
+    {
+      "icon_id": "8820140",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "2199003",
+      "name": "命令集管理",
+      "font_class": "config-command",
+      "unicode": "e749",
+      "unicode_decimal": 59209
+    },
+    {
+      "icon_id": "5173676",
+      "name": "CPU",
+      "font_class": "cpu",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "6176572",
+      "name": "内存",
+      "font_class": "neicun",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "7530859",
+      "name": "ip",
+      "font_class": "ip",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "11474203",
+      "name": "auto",
+      "font_class": "auto",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "13751598",
+      "name": "主机",
+      "font_class": "zhuji",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    }
+  ]
+}
