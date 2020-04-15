@@ -19,9 +19,8 @@
             </router-link>
           </li>
           <li class="link-type">
-            <a href="https://www.taobao.com/">随便看看</a>
+            <a href="https://www.taobao.com/">购物发泄一下</a>
           </li>
-          <li><a href="#" @click.prevent="dialogVisible=true">点我看图</a></li>
         </ul>
       </el-col>
       <el-col :span="12">

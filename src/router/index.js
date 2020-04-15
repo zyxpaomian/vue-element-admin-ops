@@ -60,7 +60,7 @@ export const asyncRoutes = [
     name: 'task',
     component: Layout,
     redirect: '/task/mgt',
-    meta: { title: '任务', icon: 'component', roles: ['admin', 'editor'] },
+    meta: { title: '任务管理', icon: 'component', roles: ['admin', 'editor'] },
     children: [
       {
         name: 'agentMgt',
@@ -90,6 +90,27 @@ export const asyncRoutes = [
       },             
     ]
   },
+  {
+    path: '/user',
+    name: 'user',
+    component: Layout,
+    redirect: '/user/mgt',
+    meta: { title: '用户管理', icon: 'peoples', roles: ['admin', 'editor'] },
+    children: [
+      {
+        name: 'userMgt',
+        path: '/user/useradd',
+        component: () => import('@/views/user/userinfo'),
+        meta: { title: '用户清单', icon: "usersetting", roles: ['admin'] }
+      },
+      {
+        name: 'userPerm',
+        path: '/user/userperm',
+        component: () => import('@/views/user/userperm'),
+        meta: { title: '用户权限', icon: 'userperm', roles: ['admin'] }
+      },                  
+    ]
+  },  
   { path: '*', redirect: '/404', hidden: true }
 ]
 

@@ -308,7 +308,6 @@ export default {
       var ip = 'all'
       var idc = 'all'
       var zone = 'all'
-      this.loading = true
       if (this.listQuery.ip !== '') {
         ip = this.listQuery.ip      
       }
